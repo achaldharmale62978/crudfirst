@@ -1,0 +1,15 @@
+.display{
+    /* width: 200px;*/
+    height: 300px; 
+    display: flex;
+}
+.i{
+    height: 200px;
+}
+.card {
+    transition: 1s;
+    
+}
+.card:hover{
+    transform: scale(1.2);
+}

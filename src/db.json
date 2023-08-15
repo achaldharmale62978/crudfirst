@@ -1,0 +1,40 @@
+{
+  "student": [
+    {
+      "fname": "bhwdgu",
+      "lname": "dcds",
+      "email": "vijaybahe08@gmail.com",
+      "sallary": "86576516321",
+      "post": "manager",
+      "mobno": "56451652162",
+      "id": 1
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "sallary": "780000",
+      "post": "manager",
+      "mobno": "",
+      "id": 2
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "sallary": "",
+      "post": "Open this select post",
+      "mobno": "",
+      "id": 5
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "sallary": "",
+      "post": "Open this select post",
+      "mobno": "",
+      "id": 6
+    }
+  ]
+}
